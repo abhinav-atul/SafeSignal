@@ -65,4 +65,18 @@ document.addEventListener('DOMContentLoaded', () => {
             playSiren();
         });
     }
+
+    // Function to play a fake call
+    function playcall() {
+        const callAudio = new Audio('call.mp3'); // Ensure this file exists in your project
+        callAudio.play();
+    }
+
+    // Add event listener for the siren button
+    const callButton = document.getElementById('callButton');
+    if (callButton) {
+        callButton.addEventListener('click', () => {
+            playcall();
+        });
+    }
 });

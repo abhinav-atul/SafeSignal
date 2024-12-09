@@ -4,19 +4,19 @@ SafeSignal is a women's safety alert website designed to provide quick and acces
 
 ## Features
 
-- **Emergency Siren Button**: Plays a loud siren audio to attract attention in emergencies.
-- **Live Location Sharing**: Allows users to share their real-time location with trusted contacts to ensure they know their whereabouts.
-- **Fake Call Feature**: Simulates an incoming call to help users safely exit uncomfortable situations.
-- **Nearby Safe Zones**: Provides information about nearby police stations, hospitals, or verified safe places.
+- **Quick Alerts**: Allows users to send emergency alerts with a single click.
+- **Location Sharing**: Automatically shares the user's real-time location with trusted contacts.
 - **Simple UI**: A clean and responsive design optimized for quick access.
 - **Accessible Anywhere**: Hosted on GitHub Pages, ensuring easy and free access.
 
+## Live Website
+You can access the live website [here](https://abhinav-atul.github.io/SafeSignal/).
+
 ## How It Works
 
-1. **Play Siren**: Users can trigger a loud siren to alert nearby individuals.
-2. **Share Location**: Users can share their real-time location with their trusted Safety Circle.
-3. **Simulate Call**: Users can simulate a fake call to manage uncomfortable situations.
-4. **Find Safe Zones**: Users can locate nearby safe places such as police stations and hospitals.
+1. **Send Alert**: The user clicks a button to trigger an emergency alert.
+2. **Notify Contacts**: Predefined trusted contacts receive an alert via email/SMS with the user's location.
+3. **Track Location**: The alert includes a real-time location link for immediate assistance.
 
 ## Tech Stack
 
